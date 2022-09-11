@@ -1,0 +1,17 @@
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\bin\Debug\net6.0\MarketplaceAPI.ApiServices.deps.json
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\bin\Debug\net6.0\MarketplaceAPI.ApiServices.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\bin\Debug\net6.0\MarketplaceAPI.ApiServices.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\bin\Debug\net6.0\MarketplaceAPI.Domain.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\bin\Debug\net6.0\MarketplaceAPI.Infrastructure.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\bin\Debug\net6.0\MarketplaceAPI.Domain.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\bin\Debug\net6.0\MarketplaceAPI.Infrastructure.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.AssemblyInfo.cs
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.csproj.CopyComplete
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\refint\MarketplaceAPI.ApiServices.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\MarketplaceAPI.ApiServices.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.ApiServices\obj\Debug\net6.0\ref\MarketplaceAPI.ApiServices.dll

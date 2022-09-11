@@ -1,0 +1,17 @@
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\bin\Debug\net6.0\MarketplaceAPI.Infrastructure.deps.json
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\bin\Debug\net6.0\MarketplaceAPI.Infrastructure.runtimeconfig.json
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\bin\Debug\net6.0\MarketplaceAPI.Infrastructure.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\bin\Debug\net6.0\MarketplaceAPI.Infrastructure.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\bin\Debug\net6.0\MarketplaceAPI.Domain.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\bin\Debug\net6.0\MarketplaceAPI.Domain.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.csproj.CopyComplete
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\refint\MarketplaceAPI.Infrastructure.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\MarketplaceAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Infrastructure\obj\Debug\net6.0\ref\MarketplaceAPI.Infrastructure.dll

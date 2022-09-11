@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceAPI", "MarketplaceAPI\MarketplaceAPI.csproj", "{E76E1BD1-8E46-4E43-8746-B704B6473F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceAPI.Domain", "MarketplaceAPI.Domain\MarketplaceAPI.Domain.csproj", "{19FE3433-D674-4BDB-AD8E-37EA3E0871BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceAPI.Infrastructure", "MarketplaceAPI.Infrastructure\MarketplaceAPI.Infrastructure.csproj", "{435CE3E9-FE70-4036-A03F-ACED6A8586C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceAPI.ApiServices", "MarketplaceAPI.ApiServices\MarketplaceAPI.ApiServices.csproj", "{D17F6AE6-A84C-4480-9EF6-C6A2552A5351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E76E1BD1-8E46-4E43-8746-B704B6473F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76E1BD1-8E46-4E43-8746-B704B6473F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76E1BD1-8E46-4E43-8746-B704B6473F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76E1BD1-8E46-4E43-8746-B704B6473F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FE3433-D674-4BDB-AD8E-37EA3E0871BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FE3433-D674-4BDB-AD8E-37EA3E0871BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FE3433-D674-4BDB-AD8E-37EA3E0871BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FE3433-D674-4BDB-AD8E-37EA3E0871BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435CE3E9-FE70-4036-A03F-ACED6A8586C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435CE3E9-FE70-4036-A03F-ACED6A8586C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435CE3E9-FE70-4036-A03F-ACED6A8586C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435CE3E9-FE70-4036-A03F-ACED6A8586C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17F6AE6-A84C-4480-9EF6-C6A2552A5351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17F6AE6-A84C-4480-9EF6-C6A2552A5351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17F6AE6-A84C-4480-9EF6-C6A2552A5351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17F6AE6-A84C-4480-9EF6-C6A2552A5351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

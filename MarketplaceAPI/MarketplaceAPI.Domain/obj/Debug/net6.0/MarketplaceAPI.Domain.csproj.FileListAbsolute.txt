@@ -1,0 +1,12 @@
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\bin\Debug\net6.0\MarketplaceAPI.Domain.deps.json
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\bin\Debug\net6.0\MarketplaceAPI.Domain.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\bin\Debug\net6.0\MarketplaceAPI.Domain.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\MarketplaceAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\MarketplaceAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\MarketplaceAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\MarketplaceAPI.Domain.AssemblyInfo.cs
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\MarketplaceAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\MarketplaceAPI.Domain.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\refint\MarketplaceAPI.Domain.dll
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\MarketplaceAPI.Domain.pdb
+C:\Users\danil\Desktop\msa\Jordan\MarketplaceAPI\MarketplaceAPI.Domain\obj\Debug\net6.0\ref\MarketplaceAPI.Domain.dll
